@@ -8,7 +8,7 @@
   </a> &nbsp;&nbsp;
 </p>
 
-I'm Fabio Camerota and I'm student of the double degree program in Data Science offered by EIT Digital. I completed my first year at Politecnico di Milano and I'm currently attending the second one at KTH Royal Institute of Technology (Stockholm).
+I'm Fabio Camerota and I'm a student of the double Master's degree program in Data Science offered by EIT Digital. I completed my first year at Politecnico di Milano and I'm currently attending the second one at KTH Royal Institute of Technology (Stockholm).
 
 :mortar_board: **Education:**
 - Master of Science student in Data Science, Innovation and Entrepreneurship at `EIT Digital`
