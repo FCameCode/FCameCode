@@ -9,9 +9,11 @@
 </p>
 
 I am Fabio Camerota and I am currently a Data Scientist Trainee at the `European Central Bank` (ECB).
+
 :briefcase: **Work Experience**
 - Data Scientist Trainee at the European Central Bank (ECB)
 - Mobile Developer at Toolery (an innovative Italian start-up)
+  
 :mortar_board: **Education:**
 - Double Master's degree in `Computer Science and Engineering`
     - Politecnico di Milano & KTH Royal Institute of Technology (EIT Digital programme)
