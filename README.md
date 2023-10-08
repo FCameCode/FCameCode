@@ -11,7 +11,8 @@
 I am Fabio Camerota and I am a Data Scientist Trainee at the European Central Bank.
 
 :mortar_board: **Education:**
-- double master's degree in `Computer Science and Engineering` at `Politecnico di Milano` and `KTH Royal Institute of Technology` (EIT Digital programme)
+- double Master's degree in `Computer Science and Engineering`
+    - `Politecnico di Milano` & `KTH Royal Institute of Technology` (EIT Digital programme)
     - Major: Data Science (Distributed Systems & Data Mining for Big Data), Minor: Innovation and Entrepreneurship
 - Bachelor's degree in `Computer Science and Engineering` at `Sapienza University of Rome`
 <!--
