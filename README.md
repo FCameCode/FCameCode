@@ -8,16 +8,17 @@
   </a> &nbsp;&nbsp;
 </p>
 
-I am Fabio Camerota and I am currently a Data Scientist Trainee at the `European Central Bank` (ECB).
+I am Fabio Camerota and I am currently a Data Science Analyst at the `European Central Bank` (ECB).
 
 :briefcase: **Work Experience**
+- Data Science Analyst at the European Central Bank (ECB)
 - Data Scientist Trainee at the European Central Bank (ECB)
 - Mobile Developer at Toolery (an innovative Italian start-up)
   
 :mortar_board: **Education:**
 - Double Master's degree in `Computer Science and Engineering`
     - Politecnico di Milano & KTH Royal Institute of Technology (EIT Digital programme)
-    - Major: Data Science (Distributed Systems & Data Mining for Big Data), Minor: Innovation and Entrepreneurship
+    - Specialization in Data Science (Distributed Systems & Data Mining for Big Data) with some courses in Innovation and Entrepreneurship
 - Bachelor's degree in `Computer Science and Engineering` at Sapienza University of Rome
 <!--
 **FCameCode/FCameCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
